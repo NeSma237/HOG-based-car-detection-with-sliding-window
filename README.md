@@ -1,0 +1,1 @@
+# HOG-based-car-detection-with-sliding-window
